@@ -279,6 +279,7 @@ def get_market_candles(
             "close",
             "high",
             "low",
+            "volume",
             "value",
     ),
     market: str = "shares",
