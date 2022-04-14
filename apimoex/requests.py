@@ -334,6 +334,7 @@ def get_board_candles(
             "close",
             "high",
             "low",
+            "volume",
             "value",
     ),
     board: str = "TQBR",
